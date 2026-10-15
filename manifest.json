@@ -1,0 +1,15 @@
+{
+ "rev": 1,
+ "min_app": "2.0.0",
+ "files": {
+  "lang.py": {
+   "sha256": "726114bb31c46e41d719ddcdcf67de5de40db37fd36fa88c451fb20dce577f08",
+   "size": 688
+  },
+  "whatsapp_controller.py": {
+   "sha256": "520c16afc48c3742af9a13739c54830ceca85e0235dd88a3ef52e7ba0b4d00f0",
+   "size": 32925
+  }
+ },
+ "signature": "qrxUHtPpkVNqUxoz4mgu3W/uV9ghUrRZJIOa7hhTQrXmblA7KfUz6NhK+XBsu3GKyf6Y8HpGxDau8VhsjWpuBA=="
+}
